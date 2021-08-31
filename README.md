@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React & Auth0
 
 A simple example of implemenation of authentication in react using Auth0
 
